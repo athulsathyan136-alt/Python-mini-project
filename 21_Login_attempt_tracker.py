@@ -1,10 +1,3 @@
-print("🔐 Login System")
-print("----------------")
-
-username = input("Enter username: ")
-password = input("Enter password: ")
-
-print("\nChecking login...")
 print("🔐 Login Attempt Tracker")
 print("------------------------")
 
