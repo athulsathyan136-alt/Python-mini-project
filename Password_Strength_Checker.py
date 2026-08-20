@@ -35,3 +35,4 @@ else:
     print("🟢 Password Strength: Strong")
 
 print(f"Score: {score}/5")
+# Updated by Athul Sathyan
